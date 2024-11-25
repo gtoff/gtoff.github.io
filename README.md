@@ -1,6 +1,6 @@
 A showcase of my recent professional work 
 
-## Cloud Robotics Initiative @ ICCLab 2024
+## Cloud Robotics Initiative @ ICCLab
 
 I currently lead the **Cloud Robotics Initiative** at Distributed Systems Group @ InIT (a.k.a. ICCLab). 
 Our mission is to advance the synergy between cloud computing, robotics, and AI through research, education, and community engagement.
@@ -20,47 +20,60 @@ At ICCLab, we focus on:
 
 For a complete list of my publications please refer to my [Google Scholar page](https://scholar.google.com/citations?user=T1oURHYAAAAJ&hl=en)
 
-#### ICRA'24 
+### ICRA'24
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6BOOdcVnppY?si=qiZqgQ1zobVxG5UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+A Method for Multi-Robot Asynchronous Trajectory Execution in MoveIt2
+P Stoop, T Ratnayake, G Toffetti
+2024 IEEE International Conference on Robotics and Automation (ICRA)
 
 <img src="images/niryo_arms_pascal.gif">
 
 
-#### IROS'23 - "Task and Motion Planning: from Theory to Practice" Workshop
+### IROS'23 - "Task and Motion Planning: from Theory to Practice" Workshop
 
-https://dyalab.mines.edu/2023/iros-workshop/
+[https://dyalab.mines.edu/2023/iros-workshop/](https://dyalab.mines.edu/2023/iros-workshop/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5WxXJxRfocs?si=FcY4xrniaZBsDwPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+A Method for Multi-Robot Asynchronous Trajectory Execution in MoveIt2
+P Stoop, T Ratnayake, G Toffetti
+IROS 2023 Workshop on Task and Motion Planning: from Theory to Practice
 
-#### IROS'22 - "Cloud and Fog Robotics In The Age of Deep Learning" Workshop
 
-https://sites.google.com/view/iros22-cloud-robotics/
+### IROS'22 - "Cloud and Fog Robotics In The Age of Deep Learning" Workshop
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CWYd-MeHG6c?si=FTkrOwuGRRjQKFNx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[https://sites.google.com/view/iros22-cloud-robotics/](https://sites.google.com/view/iros22-cloud-robotics/)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CWYd-MeHG6c?si=ddpijmC111zxtof-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Cloud Native Robotic Applications with GPU Sharing on Kubernetes
-G. Toffetti, L. Militano, S. Murphy, R. Maurer, M. Straub, IROS'22 Cloud Robotics Workshop
+G Toffetti, L Militano, S Murphy, R Maurer, M Straub
+IROS 2022 Workshop "Cloud and Fog Robotics In The Age of Deep Learning"
 
 
-#### ICRA'21 -  "Task-Informed Grasping: Agri-Food manipulation" (TIG-III) Workshop
+### ICRA'21 -  "Task-Informed Grasping: Agri-Food manipulation" (TIG-III) Workshop
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o7MBL37yF60?si=1yfkuFaWrfjRjfh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o7MBL37yF60?si=09zMdXnRNojJmcRO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Teat Pose Estimation via RGBD Segmentation for Automated Milking, N. Borla, F. Kuster, J. Langenegger, J. Ribera, M. Honegger, G. Toffetti,  "Task-Informed Grasping: Agri-Food manipulation" (TIG-III) Workshop at ICRA 2021
+Teat Pose Estimation via RGBD Segmentation for Automated Milking 
+N. Borla, F. Kuster, J. Langenegger, J. Ribera, M. Honegger, G. Toffetti
+"Task-Informed Grasping: Agri-Food manipulation" (TIG-III) Workshop at ICRA 2021
 
 
 <!-- 2023 - TomGrowthAI - Using robotics and AI to predict greenhouse tomato yield (Inno Cheque) -->
 
 
-### **Projects** / **Robotics Applications**
+## **Projects** / **Robotics Applications**
 
 
-#### **NEPHELE Project (2022-2025) - Ongoing**
+### **NEPHELE Project (2022-2025) - Ongoing**
 A lightweight software stack for managing IoT, edge, and cloud computing with use cases like:
 - **Search and Rescue (SAR)**: Coordinating emergency responses with a system-of-systems approach.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4XQCg9MkTKA?si=uVE0zG9-qJTwqDen" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### **Green Solar Roof Plant-Cutting Robot (2023-2025) - Ongoing**
@@ -77,17 +90,8 @@ A lightweight software stack for managing IoT, edge, and cloud computing with us
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o7MBL37yF60?si=1yfkuFaWrfjRjfh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Video: [[https://www.youtube.com/watch?v=o7MBL37yF60]](https://www.youtube.com/watch?v=o7MBL37yF60)
 
-#### **Video Demos**:
-1. **Teat Pose Estimation**:
-   <iframe width="560" height="315" src="<VIDEO_URL_1>" frameborder="0" allowfullscreen></iframe>
-
-2. **Automated Milking in Action**:
-   <iframe width="560" height="315" src="<VIDEO_URL_2>" frameborder="0" allowfullscreen></iframe>
-
-
-#### **ECRP with Rapyuta Robotics (2016-2019)**
+### **ECRP with Rapyuta Robotics (2016-2019)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NCjp2txUSmc?si=QQruviu-DuWaXkfu&amp;start=43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -112,11 +116,11 @@ A comprehensive robotics course covering:
 - **Practical Labs**:
   - Team-based DARPA Subt-like challenges in simulation and real-world robots.
 
-**2023 RAP Stats**:
-- 31 students in 10 groups completed successful projects.
+<!-- **2023 RAP Stats**:
+- 31 students in 10 groups completed successful projects. -->
 
-**Demo Video**:
-<iframe width="560" height="315" src="<VIDEO_URL_4>" frameborder="0" allowfullscreen></iframe>
+<!-- **Demo Video**:
+<iframe width="560" height="315" src="<VIDEO_URL_4>" frameborder="0" allowfullscreen></iframe> -->
 
 ---
 
@@ -136,6 +140,7 @@ A comprehensive robotics course covering:
 ## **BSc and MSc Theses**
 
 ### Recent Examples:
+- **Semantic Mapping with Hydra**:
 - **Search and Rescue with Drones**:
   Using cloud navigation and semantic mapping.
 - **Fleet Management**:
