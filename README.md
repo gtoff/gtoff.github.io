@@ -11,7 +11,7 @@ Our mission is to advance the synergy between cloud computing, robotics, and AI 
 ## **Overview**
 
 At ICCLab, we focus on:
-- **Research**: Pioneering robotics and cloud integration through Innosuisse and EU Horizon Europe projects.
+- **Research**: Pioneering robotics, AI, and cloud integration through Innosuisse and EU Horizon Europe projects.
 - **Education**: Teaching robotics, guiding BSc/MSc theses, and hosting impactful workshops.
 - **Dissemination**: Sharing knowledge at meetups, conferences, and topic groups.
 
@@ -24,10 +24,12 @@ A lightweight software stack for managing IoT, edge, and cloud computing with us
 - **Search and Rescue (SAR)**: Coordinating emergency responses with a system-of-systems approach.
 
 #### **ECRP with Rapyuta Robotics**
-- Supporting advancements like [Rapyuta Robotics Series C](https://www.rapyuta-robotics.com/2022/04/20/series-c-eng/).
 
 **Video Demo**:
-<iframe width="560" height="315" src="<VIDEO_URL>" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NCjp2txUSmc?si=QQruviu-DuWaXkfu&amp;start=43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i5-gXNNI8GU?si=gcNOB6ItWnbTEPpE&amp;start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### **FIWARE & FIROS**
@@ -51,6 +53,20 @@ A lightweight software stack for managing IoT, edge, and cloud computing with us
 - **Key Features**:
   - Teat pose estimation using RGBD segmentation.
   - Distributed systems for continuous learning and data collection.
+
+![Color image](images/image1.png)
+![Segmented image](images/image5.png)
+![Image Segmentation](images/image6.png)
+![Teat Points Extraction](images/image7.png)
+![Teat Masks](images/image8.png)
+![Point cloud / Depth Image](images/image9.png)
+![Teat Pose Estimation](images/image10.jpg)
+![Teat points](images/image12.png)
+![Teat tip and orientation (e.g., with PCA)](images/image13.png)
+![Camera](images/image14.png)
+
+
+Video: [[https://www.youtube.com/watch?v=o7MBL37yF60]](https://www.youtube.com/watch?v=o7MBL37yF60)
 
 #### **Video Demos**:
 1. **Teat Pose Estimation**:
@@ -112,8 +128,7 @@ A comprehensive robotics course covering:
 ---
 
 ## **Contact Us**
-For more details, visit our [official website](https://www.icclab.com).
+For more details, visit our [official website: DSY @ InIT / ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/init/distributed-systems/).
 
 ---
 
-**Note**: Replace `<VIDEO_URL>` placeholders with actual video links. If the videos aren’t online yet, you can host them on YouTube, Vimeo, or any similar platform.
