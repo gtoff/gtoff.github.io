@@ -1,5 +1,4 @@
-# gtoff.github.io
-A showcase of my professional work
+A showcase of my recent professional work 
 
 ## Cloud Robotics Initiative @ ICCLab 2024
 
@@ -19,52 +18,64 @@ At ICCLab, we focus on:
 
 ## **Research Highlights**
 
-#### **NEPHELE Project (2022–2025)**
+For a complete list of my publications please refer to my [Google Scholar page](https://scholar.google.com/citations?user=T1oURHYAAAAJ&hl=en)
+
+#### ICRA'24 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6BOOdcVnppY?si=qiZqgQ1zobVxG5UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="images/niryo_arms_pascal.gif">
+
+
+#### IROS'23 - "Task and Motion Planning: from Theory to Practice" Workshop
+
+https://dyalab.mines.edu/2023/iros-workshop/
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5WxXJxRfocs?si=FcY4xrniaZBsDwPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+#### IROS'22 - "Cloud and Fog Robotics In The Age of Deep Learning" Workshop
+
+https://sites.google.com/view/iros22-cloud-robotics/
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CWYd-MeHG6c?si=FTkrOwuGRRjQKFNx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Cloud Native Robotic Applications with GPU Sharing on Kubernetes
+G. Toffetti, L. Militano, S. Murphy, R. Maurer, M. Straub, IROS'22 Cloud Robotics Workshop
+
+
+#### ICRA'21 -  "Task-Informed Grasping: Agri-Food manipulation" (TIG-III) Workshop
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o7MBL37yF60?si=1yfkuFaWrfjRjfh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Teat Pose Estimation via RGBD Segmentation for Automated Milking, N. Borla, F. Kuster, J. Langenegger, J. Ribera, M. Honegger, G. Toffetti,  "Task-Informed Grasping: Agri-Food manipulation" (TIG-III) Workshop at ICRA 2021
+
+
+<!-- 2023 - TomGrowthAI - Using robotics and AI to predict greenhouse tomato yield (Inno Cheque) -->
+
+
+### **Projects** / **Robotics Applications**
+
+
+#### **NEPHELE Project (2022-2025) - Ongoing**
 A lightweight software stack for managing IoT, edge, and cloud computing with use cases like:
 - **Search and Rescue (SAR)**: Coordinating emergency responses with a system-of-systems approach.
 
-#### **ECRP with Rapyuta Robotics**
-
-**Video Demo**:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NCjp2txUSmc?si=QQruviu-DuWaXkfu&amp;start=43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i5-gXNNI8GU?si=gcNOB6ItWnbTEPpE&amp;start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### **FIWARE & FIROS**
-- We started working on robotics while working with FIWARE and FIROS to bridge robotics with cloud ecosystems.
-- Learn more about [FIROS on ROS.org](https://wiki.ros.org/firos).
-
----
-
-### **Tech Transfer Projects** / **Robotics Applications**
-
-### **Green Solar Roof Plant-Cutting Robot**
+### **Green Solar Roof Plant-Cutting Robot (2023-2025) - Ongoing**
 - **Capabilities**:
   - 3D SLAM and navigation using custom Nav2 behavior trees.
   - AI-based roof life detection and teleoperation.
 
-**Video Demo**:
-<iframe width="560" height="315" src="<VIDEO_URL_3>" frameborder="0" allowfullscreen></iframe>
 
-### **Milking Robot (Innosuisse Collaboration)**
+### **Milking Robot (2019-2021) - Innosuisse Collaboration with IMS**
 - Combines AI, computer vision, and robotics.
 - **Key Features**:
   - Teat pose estimation using RGBD segmentation.
   - Distributed systems for continuous learning and data collection.
 
-![Color image](images/image1.png)
-![Segmented image](images/image5.png)
-![Image Segmentation](images/image6.png)
-![Teat Points Extraction](images/image7.png)
-![Teat Masks](images/image8.png)
-![Point cloud / Depth Image](images/image9.png)
-![Teat Pose Estimation](images/image10.jpg)
-![Teat points](images/image12.png)
-![Teat tip and orientation (e.g., with PCA)](images/image13.png)
-![Camera](images/image14.png)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o7MBL37yF60?si=1yfkuFaWrfjRjfh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Video: [[https://www.youtube.com/watch?v=o7MBL37yF60]](https://www.youtube.com/watch?v=o7MBL37yF60)
 
@@ -74,6 +85,20 @@ Video: [[https://www.youtube.com/watch?v=o7MBL37yF60]](https://www.youtube.com/w
 
 2. **Automated Milking in Action**:
    <iframe width="560" height="315" src="<VIDEO_URL_2>" frameborder="0" allowfullscreen></iframe>
+
+
+#### **ECRP with Rapyuta Robotics (2016-2019)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NCjp2txUSmc?si=QQruviu-DuWaXkfu&amp;start=43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i5-gXNNI8GU?si=gcNOB6ItWnbTEPpE&amp;start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+### **FIWARE & FIROS**
+- We started working on robotics while working with FIWARE and FIROS to bridge robotics with cloud ecosystems.
+- Learn more about [FIROS on ROS.org](https://wiki.ros.org/firos).
+
 
 ---
 
