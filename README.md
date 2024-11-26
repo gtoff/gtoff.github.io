@@ -90,6 +90,8 @@ Joint work with the [ZHAW Institute of Mechatronic Systems (IMS)](https://www.zh
   - AI-based roof life detection
   - Cloud-based Fleet Management and teleoperation
 
+  ![alt text](images/f2c.png)
+
 
 ### **Milking Robot (2019-2021) - Innosuisse Collaboration with  ZHAW IMS**
 
@@ -103,6 +105,8 @@ Joint work with the [ZHAW Institute of Mechatronic Systems (IMS)](https://www.zh
 ![alt text](images/cow3.png) 
 <p float="center"><img src="images/cow4.jpg" width="50%"/><img src="images/cow6.jpg" width="50%"/></p>
 
+![alt text](images/fake_teats.jpg)
+
 ![alt text](images/cow2.png) 
 ![alt text](images/cow7.png)
 
@@ -113,7 +117,7 @@ Joint work with the [ZHAW Institute of Mechatronic Systems (IMS)](https://www.zh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i5-gXNNI8GU?si=gcNOB6ItWnbTEPpE&amp;start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+<img src="images/robopatrol.png"/>
 
 ### **FIWARE & FIROS**
 - We started working on robotics while working with FIWARE and FIROS to bridge robotics with cloud ecosystems.
