@@ -22,7 +22,7 @@ For a complete list of my publications please refer to my [Google Scholar page](
 
 ### ICRA'24
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6BOOdcVnppY?si=qiZqgQ1zobVxG5UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/6BOOdcVnppY?si=qiZqgQ1zobVxG5UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 A Method for Multi-Robot Asynchronous Trajectory Execution in MoveIt2
 P Stoop, T Ratnayake, G Toffetti
