@@ -22,7 +22,7 @@ For a complete list of my publications please refer to my [Google Scholar page](
 
 ### ICRA'24
 
-<iframe width="100%" style="padding-top: 75%;" src="https://www.youtube.com/embed/6BOOdcVnppY?si=qiZqgQ1zobVxG5UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 4 / 3" src="https://www.youtube.com/embed/6BOOdcVnppY?si=qiZqgQ1zobVxG5UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 A Method for Multi-Robot Asynchronous Trajectory Execution in MoveIt2
 P Stoop, T Ratnayake, G Toffetti
@@ -35,7 +35,7 @@ P Stoop, T Ratnayake, G Toffetti
 
 [https://dyalab.mines.edu/2023/iros-workshop/](https://dyalab.mines.edu/2023/iros-workshop/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5WxXJxRfocs?si=FcY4xrniaZBsDwPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 4 / 3" src="https://www.youtube.com/embed/5WxXJxRfocs?si=FcY4xrniaZBsDwPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 A Method for Multi-Robot Asynchronous Trajectory Execution in MoveIt2
 P Stoop, T Ratnayake, G Toffetti
@@ -47,7 +47,7 @@ IROS 2023 Workshop on Task and Motion Planning: from Theory to Practice
 [https://sites.google.com/view/iros22-cloud-robotics/](https://sites.google.com/view/iros22-cloud-robotics/)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CWYd-MeHG6c?si=ddpijmC111zxtof-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 4 / 3" src="https://www.youtube.com/embed/CWYd-MeHG6c?si=ddpijmC111zxtof-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img src="images/k8s_robots.png" width="75%"/>
 
@@ -58,7 +58,7 @@ IROS 2022 Workshop "Cloud and Fog Robotics In The Age of Deep Learning"
 
 ### ICRA'21 -  "Task-Informed Grasping: Agri-Food manipulation" (TIG-III) Workshop
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o7MBL37yF60?si=09zMdXnRNojJmcRO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 4 / 3" src="https://www.youtube.com/embed/o7MBL37yF60?si=09zMdXnRNojJmcRO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Teat Pose Estimation via RGBD Segmentation for Automated Milking 
 N. Borla, F. Kuster, J. Langenegger, J. Ribera, M. Honegger, G. Toffetti
@@ -75,7 +75,7 @@ N. Borla, F. Kuster, J. Langenegger, J. Ribera, M. Honegger, G. Toffetti
 A lightweight software stack for managing IoT, edge, and cloud computing with use cases like:
 - **Search and Rescue (SAR)**: Coordinating emergency responses with a system-of-systems approach.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4XQCg9MkTKA?si=uVE0zG9-qJTwqDen" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 4 / 3" src="https://www.youtube.com/embed/4XQCg9MkTKA?si=uVE0zG9-qJTwqDen" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img src="images/nephele.png" width="75%"/>
 <img src="images/nephele_uc1.png" width="75%"/>
@@ -113,9 +113,9 @@ Joint work with the [ZHAW Institute of Mechatronic Systems (IMS)](https://www.zh
 
 ### **ECRP with Rapyuta Robotics (2016-2019)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NCjp2txUSmc?si=QQruviu-DuWaXkfu&amp;start=43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 4 / 3" src="https://www.youtube.com/embed/NCjp2txUSmc?si=QQruviu-DuWaXkfu&amp;start=43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i5-gXNNI8GU?si=gcNOB6ItWnbTEPpE&amp;start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 4 / 3" src="https://www.youtube.com/embed/i5-gXNNI8GU?si=gcNOB6ItWnbTEPpE&amp;start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img src="images/robopatrol.png"/>
 
@@ -134,11 +134,11 @@ Joint work with the [ZHAW Institute of Mechatronic Systems (IMS)](https://www.zh
 
 **Semantic Mapping with MIT Hydra**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PzLjYsqXnxg?si=3ElKC44JGZygcTwt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 4 / 3" src="https://www.youtube.com/embed/PzLjYsqXnxg?si=3ElKC44JGZygcTwt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Tomato Picking with Mobile Manipulator and Behavior Tree**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-eZtOmuRg0c?si=VY8RcxMAamKNzFQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 4 / 3" src="https://www.youtube.com/embed/-eZtOmuRg0c?si=VY8RcxMAamKNzFQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Search and Rescue with Drones**
 
