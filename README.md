@@ -49,6 +49,8 @@ IROS 2023 Workshop on Task and Motion Planning: from Theory to Practice
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CWYd-MeHG6c?si=ddpijmC111zxtof-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+![Isolated Robotic environments on shared K8S cluster](images/k8s_robots.png)
+
 Cloud Native Robotic Applications with GPU Sharing on Kubernetes
 G Toffetti, L Militano, S Murphy, R Maurer, M Straub
 IROS 2022 Workshop "Cloud and Fog Robotics In The Age of Deep Learning"
@@ -64,8 +66,8 @@ N. Borla, F. Kuster, J. Langenegger, J. Ribera, M. Honegger, G. Toffetti
 
 
 <!-- 2023 - TomGrowthAI - Using robotics and AI to predict greenhouse tomato yield (Inno Cheque) -->
-
-
+---
+ 
 ## **Projects** / **Robotics Applications**
 
 
@@ -108,52 +110,44 @@ A lightweight software stack for managing IoT, edge, and cloud computing with us
 
 ## **Education**
 
-### **Robotic Applications Programming (RAP-EN)**
-A comprehensive robotics course covering:
-- **Core Topics**:
-  - SLAM, motion planning, and perception.
-  - ROS 1/2 software development.
-- **Practical Labs**:
-  - Team-based DARPA Subt-like challenges in simulation and real-world robots.
+### **BSc and MSc Theses**
 
-<!-- **2023 RAP Stats**:
-- 31 students in 10 groups completed successful projects. -->
-
-<!-- **Demo Video**:
-<iframe width="560" height="315" src="<VIDEO_URL_4>" frameborder="0" allowfullscreen></iframe> -->
-
----
-
-## **Hardware in Use**
-
-### **SUMMIT-XL Steel**
-- Equipped with:
-  - Universal Robots UR5 arm.
-  - Schunk and Robotiq grippers.
-  - Intel Realsense D435 camera and front/back LIDARs.
-
-### **TurtleBot 2**
-- LIDAR, Raspi camera/Kinect, and auto-docking.
-
----
-
-## **BSc and MSc Theses**
-
-### Recent Examples:
+#### Recent Examples:
 - **Semantic Mapping with Hydra**:
 - **Search and Rescue with Drones**:
   Using cloud navigation and semantic mapping.
 - **Fleet Management**:
   Coordinating multi-robot systems with Open-RMF.
 
+### **Robotic Applications Programming (RAP-EN)**
+A comprehensive robotics course covering:
+- **Core Topics**:
+  - ROS 1/2 software development.
+  - URDF, Xacro, pose in 3D
+  - ROS Control
+  - SLAM, motion planning, and perception
+  - Distributed Robotic Applications
+- **Practical Labs**:
+  - Challenges in simulation and real-world robots.
+- **Hardware we Use**
+  - **SUMMIT-XL Steel**
+    - Equipped with:
+      - Universal Robots UR5 arm.
+      - Schunk and Robotiq grippers.
+      - Intel Realsense D435 camera and front/back LIDARs.
+  - **TurtleBot 2** (2x)
+    - LIDAR, Jetson, Astra Depth Camera, and auto-docking.
+  - **TurtleBot 3** (6x)
+
 ---
 
 ## **Community Engagement**
 
-- **Meetups**: Organizing "Robotics and ROS in Zurich".
+- **ROS Cloud Robotics WG**: core member and mantainer of the [Cloud Robotics Hub](https://cloudroboticshub.github.io/)
+- **Meetups**: Organizing ["Robotics and ROS in Zurich" Meetup](https://www.meetup.com/Robotics-and-ROS-in-Zurich/).
 - **Workshops**:
-  - EURobotics Cloud Robotics WS.
-  - IROS and ICRA task and motion planning events.
+  - Organizer of the EURobotics Cloud Robotics WS at European Robotics Forum (ERF).
+ 
 
 ---
 
