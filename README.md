@@ -49,7 +49,7 @@ IROS 2023 Workshop on Task and Motion Planning: from Theory to Practice
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CWYd-MeHG6c?si=ddpijmC111zxtof-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![Isolated Robotic environments on shared K8S cluster](images/k8s_robots.png){width=80%}
+<img src="images/k8s_robots.png" width="75%"/>
 
 Cloud Native Robotic Applications with GPU Sharing on Kubernetes
 G Toffetti, L Militano, S Murphy, R Maurer, M Straub
@@ -77,8 +77,8 @@ A lightweight software stack for managing IoT, edge, and cloud computing with us
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4XQCg9MkTKA?si=uVE0zG9-qJTwqDen" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![Nephele Architecture](images/nephele.png)
-![Nephele Use Case 1: Robotic Search and Rescue](images/nephele_uc1.png)
+<img src="images/nephele.png" width="75%"/>
+<img src="images/nephele_uc1.png" width="75%"/>
 
 ### **Green Solar Roof Plant-Cutting Robot (2023-2025) - Ongoing**
 
@@ -127,10 +127,25 @@ Joint work with the [ZHAW Institute of Mechatronic Systems (IMS)](https://www.zh
 ### **BSc and MSc Theses**
 
 #### Recent Examples:
-- **Semantic Mapping with Hydra**:
-- **Search and Rescue with Drones**:
-  Using cloud navigation and semantic mapping.
-- **Fleet Management**:
+
+**Semantic Mapping with MIT Hydra**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PzLjYsqXnxg?si=3ElKC44JGZygcTwt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Tomato Picking with Mobile Manipulator and Behavior Tree**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-eZtOmuRg0c?si=VY8RcxMAamKNzFQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Search and Rescue with Drones**
+
+<img src="images/sar.png"/>
+
+**Navigation in Human-Centric Environments**
+
+<img src="images/nav2_costmap.png">
+
+
+**Fleet Management**
   Coordinating multi-robot systems with Open-RMF.
 
 ### **Robotic Applications Programming (RAP-EN)**
@@ -144,14 +159,17 @@ A comprehensive robotics course covering:
 - **Practical Labs**:
   - Challenges in simulation and real-world robots.
 - **Hardware we Use**
-  - **SUMMIT-XL Steel**
-    - Equipped with:
-      - Universal Robots UR5 arm.
-      - Schunk and Robotiq grippers.
-      - Intel Realsense D435 camera and front/back LIDARs.
-  - **TurtleBot 2** (2x)
-    - LIDAR, Jetson, Astra Depth Camera, and auto-docking.
-  - **TurtleBot 3** (6x)
+
+| Robot | |
+| ------ | -------- |
+| **SUMMIT-XL Steel** equipped with: Universal Robots UR5 arm; Schunk and Robotiq grippers; Intel Realsense D435 camera and front/back LIDARs. | ![](images/summit.jpg) |
+| ------ | -------- |
+| **TurtleBot 2** (2x): LIDAR, Jetson, Astra Depth Camera, and auto-docking. | ![](images/tb2.png) |
+| ------ | -------- |
+| **TurtleBot 3** (6x) | ![](images/tb3.png) |
+| ------ | -------- |
+| **Niryo One** (3x) | ![](images/niryo.png) |
+| ------ | -------- |
 
 ---
 
