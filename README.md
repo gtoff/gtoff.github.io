@@ -166,13 +166,13 @@ A comprehensive robotics course covering:
 
 | Robot | |
 | ------ | -------- |
-| **SUMMIT-XL Steel** equipped with: Universal Robots UR5 arm; Schunk and Robotiq grippers; Intel Realsense D435 camera and front/back LIDARs. | ![](images/summit.jpg) |
+| **SUMMIT-XL Steel** equipped with: Universal Robots UR5 arm; Schunk and Robotiq grippers; Intel Realsense D435 camera and front/back LIDARs. | <img src="images/summit.jpg" width="50%"/>  |
 | ------ | -------- |
-| **TurtleBot 2** (2x): LIDAR, Jetson, Astra Depth Camera, and auto-docking. | ![](images/tb2.png) |
+| **TurtleBot 2** (2x): LIDAR, Jetson, Astra Depth Camera, and auto-docking. | <img src="images/tb2.png" width="30%"/> |
 | ------ | -------- |
-| **TurtleBot 3** (6x) | ![](images/tb3.png) |
+| **TurtleBot 3** (6x) | <img src="images/tb3.png" width="30%"/> |
 | ------ | -------- |
-| **Niryo One** (3x) | ![](images/niryo.png) |
+| **Niryo One** (3x) | <img src="images/niryo.png" width="30%"/> |
 | ------ | -------- |
 
 ---
