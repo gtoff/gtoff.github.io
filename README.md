@@ -49,7 +49,7 @@ IROS 2023 Workshop on Task and Motion Planning: from Theory to Practice
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CWYd-MeHG6c?si=ddpijmC111zxtof-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![Isolated Robotic environments on shared K8S cluster](images/k8s_robots.png)
+![Isolated Robotic environments on shared K8S cluster](images/k8s_robots.png){width=80%}
 
 Cloud Native Robotic Applications with GPU Sharing on Kubernetes
 G Toffetti, L Militano, S Murphy, R Maurer, M Straub
@@ -77,20 +77,34 @@ A lightweight software stack for managing IoT, edge, and cloud computing with us
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4XQCg9MkTKA?si=uVE0zG9-qJTwqDen" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+![Nephele Architecture](images/nephele.png)
+![Nephele Use Case 1: Robotic Search and Rescue](images/nephele_uc1.png)
 
 ### **Green Solar Roof Plant-Cutting Robot (2023-2025) - Ongoing**
-- **Capabilities**:
-  - 3D SLAM and navigation using custom Nav2 behavior trees.
-  - AI-based roof life detection and teleoperation.
+
+Joint work with the [ZHAW Institute of Mechatronic Systems (IMS)](https://www.zhaw.ch/en/engineering/institutes-centres/ims/robotics-automation/)
+
+- **Main Contributions**:
+  - 3D SLAM and navigation using custom Nav2 behavior trees
+  - Coverage Planning with Fields2Cover
+  - AI-based roof life detection
+  - Cloud-based Fleet Management and teleoperation
 
 
-### **Milking Robot (2019-2021) - Innosuisse Collaboration with IMS**
+### **Milking Robot (2019-2021) - Innosuisse Collaboration with  ZHAW IMS**
+
+Joint work with the [ZHAW Institute of Mechatronic Systems (IMS)](https://www.zhaw.ch/en/engineering/institutes-centres/ims/robotics-automation/)
+
 - Combines AI, computer vision, and robotics.
-- **Key Features**:
+- **Main Contribution**:
   - Teat pose estimation using RGBD segmentation.
-  - Distributed systems for continuous learning and data collection.
+  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o7MBL37yF60?si=1yfkuFaWrfjRjfh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![alt text](images/cow3.png) 
+<p float="center"><img src="images/cow4.jpg" width="50%"/><img src="images/cow6.jpg" width="50%"/></p>
+
+![alt text](images/cow2.png) 
+![alt text](images/cow7.png)
 
 
 ### **ECRP with Rapyuta Robotics (2016-2019)**
