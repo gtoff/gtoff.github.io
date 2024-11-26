@@ -1,8 +1,8 @@
-A showcase of my recent professional work 
+<!-- A showcase of my recent professional work  -->
 
 ## Cloud Robotics Initiative @ ICCLab
 
-I currently lead the **Cloud Robotics Initiative** at Distributed Systems Group @ InIT (a.k.a. ICCLab). 
+I currently lead the **Cloud Robotics Initiative** at the [Distributed Systems Group @ InIT]((https://www.zhaw.ch/en/engineering/institutes-centres/init/distributed-systems/)) (a.k.a. ICCLab). 
 Our mission is to advance the synergy between cloud computing, robotics, and AI through research, education, and community engagement.
 
 ---
@@ -90,7 +90,7 @@ Joint work with the [ZHAW Institute of Mechatronic Systems (IMS)](https://www.zh
   - AI-based roof life detection
   - Cloud-based Fleet Management and teleoperation
 
-  ![alt text](images/f2c.png)
+  <img src="images/f2c.png" width="75%"/>
 
 
 ### **Milking Robot (2019-2021) - Innosuisse Collaboration with  ZHAW IMS**
