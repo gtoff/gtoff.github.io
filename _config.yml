@@ -1,5 +1,6 @@
 title: Giovanni Toffetti
 description: A showcase of my recent professional work
 show_downloads: false
-google_analytics:
+google_analytics: 
+  id: "G-J83MG381N5"
 theme: jekyll-theme-architect
