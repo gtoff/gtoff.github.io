@@ -7,7 +7,7 @@ Our mission is to advance the synergy between cloud computing, robotics, and AI 
 
 ---
 
-# **Overview**
+# Overview
 
 At ICCLab, we focus on:
 - **Research**: Pioneering robotics, AI, and cloud integration through Innosuisse and EU Horizon Europe projects.
@@ -16,7 +16,7 @@ At ICCLab, we focus on:
 
 ---
 
-# **Research Highlights**
+# Research Highlights
 
 For a complete list of my publications please refer to my [Google Scholar page](https://scholar.google.com/citations?user=T1oURHYAAAAJ&hl=en)
 
@@ -68,10 +68,10 @@ N. Borla, F. Kuster, J. Langenegger, J. Ribera, M. Honegger, G. Toffetti
 <!-- 2023 - TomGrowthAI - Using robotics and AI to predict greenhouse tomato yield (Inno Cheque) -->
 ---
  
-# **Projects** / **Robotics Applications**
+# Projects / Robotic Applications
 
 
-## **NEPHELE Project (2022-2025) - Ongoing**
+## NEPHELE Project (2022-2025) - Ongoing
 A lightweight software stack for managing IoT, edge, and cloud computing with use cases like:
 - **Search and Rescue (SAR)**: Coordinating emergency responses with a system-of-systems approach.
 
@@ -80,7 +80,7 @@ A lightweight software stack for managing IoT, edge, and cloud computing with us
 <img src="images/nephele.png" width="75%"/>
 <img src="images/nephele_uc1.png" width="75%"/>
 
-## **Green Solar Roof Plant-Cutting Robot (2023-2025) - Ongoing**
+## Green Solar Roof Plant-Cutting Robot (2023-2025) - Ongoing
 
 Joint work with the [ZHAW Institute of Mechatronic Systems (IMS)](https://www.zhaw.ch/en/engineering/institutes-centres/ims/robotics-automation/)
 
@@ -93,7 +93,7 @@ Joint work with the [ZHAW Institute of Mechatronic Systems (IMS)](https://www.zh
   <img src="images/f2c.png" width="75%"/>
 
 
-## **Milking Robot (2019-2021) - Innosuisse Collaboration with  ZHAW IMS**
+## Milking Robot (2019-2021) - Innosuisse Collaboration with  ZHAW IMS
 
 Joint work with the [ZHAW Institute of Mechatronic Systems (IMS)](https://www.zhaw.ch/en/engineering/institutes-centres/ims/robotics-automation/)
 
@@ -111,7 +111,7 @@ Joint work with the [ZHAW Institute of Mechatronic Systems (IMS)](https://www.zh
 ![alt text](images/cow7.png)
 
 
-## **ECRP with Rapyuta Robotics (2016-2019)**
+## ECRP with Rapyuta Robotics (2016-2019)
 
 <iframe width="100%" style="aspect-ratio: 4 / 3" src="https://www.youtube.com/embed/NCjp2txUSmc?si=QQruviu-DuWaXkfu&amp;start=43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -119,40 +119,38 @@ Joint work with the [ZHAW Institute of Mechatronic Systems (IMS)](https://www.zh
 
 <img src="images/robopatrol.png"/>
 
-## **FIWARE & FIROS**
+## FIWARE & FIROS
 - We started working on robotics while working with FIWARE and FIROS to bridge robotics with cloud ecosystems.
 - Learn more about [FIROS on ROS.org](https://wiki.ros.org/firos).
 
 
 ---
 
-# **Education**
-
-## **BSc and MSc Theses**
+# BSc and MSc Theses
 
 Recent Examples...
 
-### Semantic Mapping with MIT Hydra
+## Semantic Mapping with MIT Hydra
 
 <iframe width="100%" style="aspect-ratio: 4 / 3" src="https://www.youtube.com/embed/PzLjYsqXnxg?si=3ElKC44JGZygcTwt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Tomato Picking with Mobile Manipulator and Behavior Tree
+## Tomato Picking with Mobile Manipulator and Behavior Tree
 
 <iframe width="100%" style="aspect-ratio: 4 / 3" src="https://www.youtube.com/embed/-eZtOmuRg0c?si=VY8RcxMAamKNzFQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Search and Rescue with Drones
+## Search and Rescue with Drones
 
 <img src="images/sar.png"/>
 
-### Navigation in Human-Centric Environments
+## Navigation in Human-Centric Environments
 
 <img src="images/nav2_costmap.png">
 
 
-### Fleet Management
+## Fleet Management
   Coordinating multi-robot systems with Open-RMF.
 
-## **Robotic Applications Programming (RAP-EN)**
+# Education: Robotic Applications Programming (RAP-EN) @ ZHAW
 A comprehensive robotics course covering:
 - **Core Topics**:
   - ROS 1/2 software development.
@@ -177,7 +175,7 @@ A comprehensive robotics course covering:
 
 ---
 
-# **Community Engagement**
+# Community Engagement
 
 - **ROS Cloud Robotics WG**: core member and mantainer of the [Cloud Robotics Hub](https://cloudroboticshub.github.io/)
 - **Meetups**: Organizing ["Robotics and ROS in Zurich" Meetup](https://www.meetup.com/Robotics-and-ROS-in-Zurich/).
@@ -187,7 +185,7 @@ A comprehensive robotics course covering:
 
 ---
 
-# **Contact Us**
+# Contact Us
 For more details, visit our [official website: DSY @ InIT / ZHAW](https://www.zhaw.ch/en/engineering/institutes-centres/init/distributed-systems/).
 
 ---
