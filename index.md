@@ -1,6 +1,6 @@
 <!-- A showcase of my recent professional work  -->
 
-# Cloud Robotics Initiative @ ICCLab
+# Distributed Systems for Robotics
 
 I currently lead the **Distributed Systems for Robotics** research initiative at the [Distributed Systems Group @ InIT](https://www.zhaw.ch/en/engineering/institutes-centres/init/distributed-systems/) (DSY). 
 
