@@ -2,15 +2,17 @@
 
 # Cloud Robotics Initiative @ ICCLab
 
-I currently lead the **Cloud Robotics Initiative** at the [Distributed Systems Group @ InIT]((https://www.zhaw.ch/en/engineering/institutes-centres/init/distributed-systems/)) (a.k.a. ICCLab). 
-Our mission is to advance the synergy between cloud computing, robotics, and AI through research, education, and community engagement.
+I currently lead the **Distributed Systems for Robotics** research initiative at the [Distributed Systems Group @ InIT](https://www.zhaw.ch/en/engineering/institutes-centres/init/distributed-systems/) (DSY). 
+
+Building on the ROS middleware, we address the development of autonomous robot applications catering for high-level robot functionality (e.g., mapping, navigation, perception, manipulation, deliberation, agents) with a focus on distributed systems (e.g., agentic AI, MCP, cloud/edge/fog robotics, multi-agents, multi-robot, simulation, fleet-management, integration with AI services, robot-specific networking and storage).
+The usage of distributed systems allows to extend the capabilities of robots (computing power, context information, artificial intelligence, ...) as well as to manage and coordinate them. Programming frameworks like ROS and automation services enable developers to integrate robots into services without having in-depth knowledge at device level.
 
 ---
 
 # Overview
 
-At ICCLab, we focus on:
-- **Research**: Pioneering robotics, AI, and cloud integration through Innosuisse and EU Horizon Europe projects.
+At DSY , we focus on:
+- **Research**: robotics, AI, and distributed systems integration through Innosuisse and EU Horizon Europe projects.
 - **Education**: Teaching robotics, guiding BSc/MSc theses, and hosting impactful workshops.
 - **Dissemination**: Sharing knowledge at meetups, conferences, and topic groups.
 
